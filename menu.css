@@ -39,7 +39,7 @@ body {
   transition: 0.5s;
 }
 .menu:hover{
-    width: 260px;
+    width: 320px;
 }
 ul {
   list-style: none;
